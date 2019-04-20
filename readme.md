@@ -1,3 +1,13 @@
+<p>Note: rename the .env.example to .env</p>
+<p>Create database in your local and name it: lsapp</p>
+<p>Execute the commands</p>
+<li>php artisan migrate</li>
+<li>php artisan db:seed</li>
+<li>php artisan config:clear</li>
+<p>email: admin@gmail.com</p>
+<p>password: admin</p>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">

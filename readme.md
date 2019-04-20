@@ -4,6 +4,7 @@
 <li>php artisan migrate</li>
 <li>php artisan db:seed</li>
 <li>php artisan config:clear</li>
+<br/>
 <p>email: admin@gmail.com</p>
 <p>password: admin</p>
 
